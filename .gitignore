@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.streamlit/secrets.toml
+my_network_capture.pcapng
+data/real_network_traffic.csv
